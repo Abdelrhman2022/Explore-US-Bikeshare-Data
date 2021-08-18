@@ -21,3 +21,6 @@ The Chicago and New York City files also have the following two columns:
 
 Gender
 Birth Year
+
+![image](https://user-images.githubusercontent.com/56741841/129899716-db4bedc3-6c14-45f8-94fb-215f1bf82ef7.png)
+
